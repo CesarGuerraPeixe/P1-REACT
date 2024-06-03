@@ -1,8 +1,17 @@
-# React + Vite
+<h1>P1 REACT</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém o código-fonte e a documentação relacionada ao projeto P1 de REACT desenvolvido para o curso de Residência em TIC do Serratec.
 
-Currently, two official plugins are available:
+<h2>Objetivo do Projeto:</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Uma página de login clonada utilizando o useState para o login e senha, um botão que muda uma variável, e quando essa variável muda, utiliza o useEffect para verificar se a senha e o login estão corretos.
+
+<h2>Imagem da página de login oficial do Facebook utilizada para o clone:</h2>
+
+div align="center"
+img src="https://github.com/CesarGuerraPeixe/P1-REACT/issues/1#issue-2330126555" width="0px" /
+/div
+
+<h2>Aluno:</h2>
+
+César Guerra Peixe (https://www.linkedin.com/in/cesarguerrapeixe/)
