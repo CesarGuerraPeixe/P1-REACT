@@ -20,6 +20,7 @@ function Login() {
     } else {
       console.log("E-mail ou senha incorretos.");
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [count]);
 
   return (
