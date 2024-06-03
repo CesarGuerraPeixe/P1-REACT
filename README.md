@@ -8,9 +8,7 @@ Uma página de login clonada utilizando o useState para o login e senha, um bot�
 
 <h2>Imagem da página de login oficial do Facebook utilizada para o clone:</h2>
 
-<div></div> align="center"
-<img src="https://github.com/CesarGuerraPeixe/P1-REACT/issues/1#issue-2330126555" width="500px" />
-</div>
+![pagina original facebook](https://github.com/CesarGuerraPeixe/P1-REACT/assets/164147010/39855c25-8c2c-46c4-a050-5066f04601d4)
 
 <h2>Aluno:</h2>
 
