@@ -1,0 +1,155 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #eff1f5;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+body, input, button{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+  padding-top: 130px;
+  padding-bottom: 150px;
+  max-width: 950px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  align-items: center;
+  gap: 40px;
+}
+
+.left{
+  margin-bottom: 50px;
+}
+
+.styles.logo{
+  display: block;
+  max-width: 100%;
+  height: 100px;
+  margin: -30px;
+  padding-bottom: 22px;
+}
+
+h2{
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  color: #1c1e21;
+  max-width: 500px;
+}
+
+.containerform{
+  padding: 15px 15px 24px 15px;
+  background-color: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.containerform a, input, button{
+  display: block;
+}
+
+.containerform a{
+  font-size: 15px;
+  color: #1877f2;
+  text-align: center;
+  margin-top: 15px;
+  text-decoration: none;
+  padding-bottom: 15px;
+  border-bottom: 1px solid rgb(196, 192, 192);
+}
+
+form a:hover{
+  text-decoration: underline;
+}
+
+.entrar, .criarConta{
+  font-weight: bold;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 15px;
+  cursor: pointer;
+  transition: 200ms cubic-bezier(0.08, 0.55, 0.55, 1);
+}
+
+.entrar{
+  font-size: 20px;
+  background-color: #1877f2;
+  width: 100%;
+}
+
+.entrar:hover{
+  background-color: #3086f7;
+}
+
+.criarConta{
+  font-size: 18px;
+  background-color: rgb(16, 196, 16);
+  margin: auto;
+  margin-top: 22px;
+}
+
+.criarConta:hover{
+  background-color: rgb(14, 166, 14);
+}
+
+p, a{
+  color: #1c1e21;
+  font-size: 15px;
+  margin: 28px 0 0 0;
+}
+
+a{
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+footer{
+  background-color: #fff;
+  font-size: 10px;
+  color: #737373;
+  margin-left: -50px;
+  margin-right: -50px;
+  text-align: center;
+  height: 210px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 900px){
+  .container{
+      grid-template-columns: 1fr;
+  }
+
+  .logo{
+      margin: -25px auto;
+  }
+
+  .left{
+      text-align: center;
+      margin: 0 auto;
+  }
+
+  p{
+      text-align: center;
+  }
+
+  form{
+      max-width: 400px;
+      margin: 0 auto;
+  }
+}
+
