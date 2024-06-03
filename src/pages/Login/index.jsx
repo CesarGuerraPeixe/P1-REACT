@@ -34,10 +34,10 @@ function Login() {
             <Input onChange={e => setEmail(e.target.value)} placeholder='Email ou telefone' />
             <Input onChange={e => setPassword(e.target.value)} placeholder='Senha' type="password" />
             <button type="button" onClick={addCount} className={styles.entrar}>Entrar</button>
-            <a href="#">Esqueceu a senha?</a>
+            <a className={styles.esqueceuSenha} href="#">Esqueceu a senha?</a>
             <button type="button" className={styles.criarConta}>Criar nova conta</button>
           </div>
-          <p><a href="#">Criar uma Página</a> para uma celebridade, uma marca ou uma empresa.</p>
+          <p><a href="#">Crie uma Página</a> para uma celebridade, uma marca ou uma empresa.</p>
         </div>
       </div>
       <footer>Facebook - Todos os direitos reservados</footer>
