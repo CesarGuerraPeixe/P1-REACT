@@ -14,6 +14,14 @@ Uma página de login clonada utilizando o useState para o login e senha, um bot�
 
 ![image](https://github.com/CesarGuerraPeixe/P1-REACT/assets/164147010/24bcffae-5ccd-4c09-840e-6e87ba594c27)
 
+<h2>Imagem do console com um email incorreto:</h2>
+
+![image](https://github.com/CesarGuerraPeixe/P1-REACT/assets/164147010/fcb61610-e230-4f05-8c1e-86572fe28874)
+
+<h2>Imagem do console com um email correto:</h2>
+
+![image](https://github.com/CesarGuerraPeixe/P1-REACT/assets/164147010/9b1de6b7-eb05-4d5a-bc9c-fc340a9e7cf8)
+
 <h2>Aluno:</h2>
 
 César Guerra Peixe (https://www.linkedin.com/in/cesarguerrapeixe/)
