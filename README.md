@@ -2,6 +2,10 @@
 
 Este repositório contém o código-fonte e a documentação relacionada ao projeto P1 de REACT desenvolvido para o curso de Residência em TIC do Serratec.
 
+<h2>Aluno:</h2>
+
+César Guerra Peixe (https://www.linkedin.com/in/cesarguerrapeixe/)
+
 <h2>Objetivo do Projeto:</h2>
 
 Uma página de login clonada utilizando o useState para o login e senha, um botão que muda uma variável, e quando essa variável muda, utiliza o useEffect para verificar se a senha e o login estão corretos.
@@ -21,7 +25,3 @@ Uma página de login clonada utilizando o useState para o login e senha, um bot�
 <h2>Imagem do console com um email correto:</h2>
 
 ![image](https://github.com/CesarGuerraPeixe/P1-REACT/assets/164147010/9b1de6b7-eb05-4d5a-bc9c-fc340a9e7cf8)
-
-<h2>Aluno:</h2>
-
-César Guerra Peixe (https://www.linkedin.com/in/cesarguerrapeixe/)
